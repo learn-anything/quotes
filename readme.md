@@ -17,6 +17,13 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 Pull requests are welcome. Thank you. 💙
 
+
+#### Related websites / repositories 
+
+- [awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [goodreads popular quotes](https://www.goodreads.com/quotes)
+
+
 <h1 align="center"> Quotes </h1>
 
 <h2 align="center"> Life </h2>
