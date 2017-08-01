@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome quotes all can learn from 💬</h1>
+<h1 align="center"> Interesting quotes all can learn from 💬</h1>
 
 
 <div align="center">
