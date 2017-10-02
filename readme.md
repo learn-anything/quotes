@@ -63,6 +63,7 @@ Pull requests are welcome. Thank you. 💙
 	- Banksy
 - Dying is but a moment
 - Thoughts become words, words become actions
+- The teacher appears when the student is ready
 
 <h2 align="center"> Consciousness </h2>
 
@@ -220,7 +221,9 @@ Pull requests are welcome. Thank you. 💙
 - You cannot understand good design if you do not understand people; design is made for people
 	- Charles Eames
 
+<h2 align="center"> Funny </h2>
 
+- If computer science fundamentals are so important why do I only think about them during interviews?
 
 <h2 align="center"> Nutrition </h2>
 
@@ -253,8 +256,8 @@ Pull requests are welcome. Thank you. 💙
 
 <h2 align="center"> Privacy </h2>
 
+- Today's surveillance is extremely stealthy. If a person was following you all day, writing down what you are doing, of course you would care. But the problem today is, most people don't see the person following them.
 - There is no cloud, just other people's computers
-
 
 <h2 align="center"> War </h2>
 
