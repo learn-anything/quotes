@@ -213,6 +213,10 @@ Pull requests are welcome. Thank you. 💙
 	- Albert Einstein
 - If you can’t solve a problem, it’s because you’re playing by the rules.
 
+<h2 align="center"> Inspiration </h2>
+
+- The amateur waits for inspiration. The professional knows that it will come after he starts.
+
 <h2 align="center"> Design </h2>
 
 - Design is not just what it looks like and feels like. Design is how it works.
