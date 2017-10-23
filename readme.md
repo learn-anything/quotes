@@ -1,6 +1,5 @@
 <h1 align="center"> Interesting quotes all can learn from 💬</h1>
 
-
 <div align="center">
 <a href="https://www.patreon.com/learnanything">
 		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
@@ -11,7 +10,6 @@
 </div>
 
 <h1 align="center"> Description 📕</h1>
-
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting quotes one can read to learn new things and discover new insights. 🔭
 
@@ -80,6 +78,7 @@ Pull requests are welcome. Thank you. 💙
 - Let us declare nature to be legitimate. All plants should be declared legal, and all animals for that matter. The notion of illegal plants and animals is obnoxious and ridiculous.
 - Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves. Now, heres Tom with the weather.
 	- Bill Hicks
+- Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 
 <h2 align="center"> Happiness </h2>
 
@@ -257,6 +256,12 @@ Pull requests are welcome. Thank you. 💙
 	- Vladimir Lenin
 - Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires.
 	- John Steinbeck
+- throughout the history of the human race, few things have been more profitable than selling both the poison and the cure.
+
+<h2 align="center"> Programming </h2>
+
+- …you have to say to yourself – “I don’t know what I’m doing. We, as a field, don’t know what we’re doing. We don’t know what programming is, we don’t know what computing is, we don’t even know what a computer is.” And once you truly understand that, once you truly believe that – then you’re free, and you can think anything.
+	- Bret Victor
 
 <h2 align="center"> Privacy </h2>
 
