@@ -46,6 +46,8 @@ Pull requests are welcome. Thank you. 💙
 - Dying is but a moment
 - Thoughts become words, words become actions
 - The teacher appears when the student is ready
+- The first draft of anything is garbage.
+	- Ernest Hemingway
 
 ### Consciousness 
 - God is consciousness without the sense of self
