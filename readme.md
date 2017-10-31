@@ -61,6 +61,7 @@ Pull requests are welcome. Thank you. 💙
 - Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves. Now, heres Tom with the weather.
 	- Bill Hicks
 - Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+- It's like explaining what being wet is like to someone that has never seen water
 
 ### Happiness 
 - The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.
