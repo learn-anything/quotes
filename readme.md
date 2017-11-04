@@ -48,6 +48,7 @@ Pull requests are welcome. Thank you. 💙
 - The teacher appears when the student is ready
 - The first draft of anything is garbage.
 	- Ernest Hemingway
+- No plan survives contact with the enemy
 
 ### Consciousness 
 - God is consciousness without the sense of self
