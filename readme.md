@@ -1,12 +1,12 @@
-# Interesting quotes all can learn from 💬 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting quotes one can read to learn new things and discover new insights. 
+# Interesting Quotes [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting quotes.
 
-### Related websites / repositories 
-- [awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
-- [goodreads popular quotes](https://www.goodreads.com/quotes)
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [Goodreads popular quotes](https://www.goodreads.com/quotes)
 
 ## Quotes 
 ### Life 
@@ -233,3 +233,6 @@ Pull requests are welcome. Thank you. 💙
 - If we don’t end war, war will end us.
 - The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.
 	- Carl Sagan
+
+## Contribute 
+If you found a quote that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
