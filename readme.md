@@ -49,6 +49,7 @@ Pull requests are welcome. Thank you. 💜
 - The first draft of anything is garbage.
 	- Ernest Hemingway
 - No plan survives contact with the enemy
+- You only dread these dreary tasks when you're dreading them
 
 ### Consciousness 
 - God is consciousness without the sense of self
