@@ -1,6 +1,4 @@
 # Interesting Quotes [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-> Curated list of all the Interesting quotes
-
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Life
