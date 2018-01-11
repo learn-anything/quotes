@@ -8,11 +8,12 @@
 
 > "For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life." - Alfred D. Souza
 
-- People have a lot invested in this ride.
-	- Bill Hicks
-- When you change yourself you change the world.
-- When you change the way you look at things, the things you look at change.
-	- Jiddu Krishnamurti
+> "People have a lot invested in this ride." - Bill Hicks
+
+> "When you change yourself you change the world."
+
+> "When you change the way you look at things, the things you look at change."- Jiddu Krishnamurti
+	
 - Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.
 - Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
 - Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
@@ -134,10 +135,10 @@
 	- Ernest Hemingway
 - Don't mistake the finger for the moon
 - Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
-- Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
-	- Jim Rohn
 
-> “Nobody is the boss,” says Huang, explaining his egalitarian approach to problem-solving. “The project is the boss.”
+> "Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day." - Jim Rohn
+
+> “Nobody is the boss. The project is the boss.”
 
 ### Minimalism
 - The less I needed, the better I felt
