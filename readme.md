@@ -13,7 +13,7 @@
 > "When you change yourself you change the world."
 
 > "When you change the way you look at things, the things you look at change."- Jiddu Krishnamurti
-	
+
 - Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.
 - Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
 - Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
