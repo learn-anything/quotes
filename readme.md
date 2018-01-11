@@ -59,7 +59,7 @@
 > "The teacher appears when the student is ready"
 
 > "The first draft of anything is garbage." - Ernest Hemingway
-	
+
 > "No plan survives contact with the enemy"
 
 > "You only dread these dreary tasks when you're dreading them"
@@ -73,101 +73,101 @@
 
 ## Psychedelics
 > "When you get the message, hang up the phone." - Alan Watts
-	
+
 > "Let us declare nature to be legitimate. All plants should be declared legal, and all animals for that matter. The notion of illegal plants and animals is obnoxious and ridiculous."
 
 > "Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves. Now, heres Tom with the weather." - Bill Hicks
-	
+
 > "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water."
 
 > "It's like explaining what being wet is like to someone that has never seen water"
 
 ## Happiness
 > "The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience." - Mark Manson
-	
+
 
 ## Intelligence
 > "Knowledge means knowing where it's written down."
 
 > "Never memorise something that you can look up." - Albert Einstein
-	
+
 > "An educated man is not, necessarily, one who has an abundance of general or specialised knowledge. An educated man is one who has so developed the faculties of his mind that he may acquire anything he wants, or its equivalent, without violating the rights of others." - Napoleon Hill
-	
+
 > "The wise warrior avoids the battle."
 
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
-	
+
 > "Study without devotion damages the brain" - Leonardo da Vinci
-	
+
 > "Wonder is the foundation of all philosophy, inquiry its progress, ignorance its end."
 
 > "Facts do not cease to exist because they are ignored." - Aldous Huxley
-	
+
 > "We are all apprentices in a craft where no one ever becomes a master."
 
 > "I leaned very early the difference between knowing the name of something and knowing something." - Richard Feynman
-	
+
 > "It is impossible for a man to learn what he thinks he already knows."
 
 > "In the age of information, ignorance is a choice" - Donny Miller
-	
+
 > "The essence of strategy is choosing what not to do." - M. E. Porter
-	
+
 > "Pass it on, .... That’s the game I want you to learn. Pass it on."
 
 ## Mathematics
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." - Angus K. Rodgers
-	
+
 > "Fractals are shapes with a non-integer dimension"
 
 > "She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe." - Ted Chiang
-	
+
 > "In mathematics you don't understand things. You just get used to them." - John von Neumann
-	
+
 > "Geometry without algebra is dumb! Algebra without geometry is blind!" - Hestenes
-	
+
 ## Physics
 > "The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history."
 
 > "The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you." - Heisenberg
-	
+
 > "It's all either order or chaos. You momentarily ordered what was already there in a more structured way. Then when you deleted it, that specific order disappeared. Like a plant assembling itself out of minerals and water and atmospheric compounds, and the dying and decomposing back into them again. The underlying elements are still there, but the structure is gone."
 
 ## Success
 > "Do the simple thing first."
 
 > "Work like hell. I mean you just have to put in 80 to 100 hour weeks every week. This improves the odds of success. If other people are putting in 40 hour work weeks and you’re putting in 100 hour work weeks, then even if you’re doing the same thing you know that… you will achieve in 4 months what it takes them a year to achieve." - Elon Musk
-	
+
 > "It’s fine to celebrate success but it is more important to heed the lessons of failure. Success is a lousy teacher. It seduces smart people into thinking they can't lose." - Bill Gates
-	
+
 > "It’s not about having time, it’s about making time."
 
 > "Focus is a matter of deciding what not to do." - John Carmack
-	
+
 > "Are you moving one step in 20 directions or 20 steps in one direction?"
 
 > "Show, don't tell"
 
 > "You don't remember the work, you remember the exhilaration." - Robert Herjavec
-	
+
 > "An investment in knowledge always pays the best interest." - Benjamin Franklin
-	
+
 > "I am reminded of the story of the great French Marshal Lyautey, who once asked his gardener to plant a tree. The gardener objected that the tree was slow-growing and would not reach maturity for a hundred years. The Marshal replied, In that case, there is no time to lose, plant it this afternoon." - John F. Kennedy
-	
+
 > "If others would think as hard as I did, then they would get similar results" - Isaac Newton
-	
+
 > "We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress."
 
 > "Let’s go invent tomorrow rather than worrying about what happened yesterday." - Steve Jobs
 
 > "If everything is under control, you're going too slow." - Mario Andretti
-	
+
 > "Mistake only stays a mistake if you don't learn from it"
 
 > "The grass isn't greener on the other side, it's greener where you water it."
 
 > "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self." - Ernest Hemingway
-	
+
 > "Don't mistake the finger for the moon"
 
 > "Have the courage to follow your heart and intuition. They somehow know what you truly want to become."
@@ -178,20 +178,20 @@
 
 ## Minimalism
 > "The less I needed, the better I felt" - Charles Bukowski
-	
+
 > "Simplicity Is Complexity Resolved" - Constantin Brancusi
-	
+
 > "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - Lao Tzu
-	
+
 > "Happiness is the absence of striving for happiness" - Zhuang Zhou
-	
+
 ## Finance
 > "A penny saved is a penny earned." - Benjamin Franklin
-	
+
 > "One man's debt is another man's financial asset"
 
 > "Rich people buy things that make them more money; poor people buy big screen TV's and cars" - Robert Kiyosaki
-	
+
 ## Capitalism
 > "I used to work at McDonald’s making minimum wage. You know what that means when someone pays you minimum wage? You know what your boss was trying to say? It’s like, “Hey, if I could pay you less, I would, but it’s against the law“" - Chris Rock
 
@@ -210,11 +210,11 @@
 
 ## Creativity
 > "Everything you can imagine is real." - Pablo Picasso
-	
+
 > "It is the simplest version of the idea that sticks." - Christopher Nolan
-	
+
 > "I have no special talents. I am only passionately curious" - Albert Einstein
-	
+
 > "If you can’t solve a problem, it’s because you’re playing by the rules."
 
 ## Inspiration
@@ -222,52 +222,60 @@
 
 ## Design
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
-	
+
 > "You cannot understand good design if you do not understand people; design is made for people" - Charles Eames
 
 ## Funny
 > "If computer science fundamentals are so important why do I only think about them during interviews?"
 
-### Nutrition
-- Eat food. Not too much. Mostly plants.
+## Nutrition
+> "Eat food. Not too much. Mostly plants."
 
-### Drugs
-- When you drink alcohol you are just borrowing happiness from tomorrow.
-- The dose makes the poison.
-- Know your body, know your mind, know your substance, know your source.
+## Drugs
+> "When you drink alcohol you are just borrowing happiness from tomorrow."
 
-### Politics
-- It is difficult to get a man to understand something, when his salary depends on his not understanding it
-	- Upton Sinclair
-- If you don't read the paper you are uninformed, if you do you are misinformed
-	- Mark Twain
-- Democracy is the worst form of government ... except for all those other forms that have been tried from time to time.
+> "The dose makes the poison."
 
-### History
-- What is done cannot be undone, but one can prevent it happening again.
-	- Anne Frank
-- The philosophy of one century is the common sense of the next
-- There are decades when nothing happens. There are weeks where decades happen.
-	- Vladimir Lenin
-- Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires.
-	- John Steinbeck
-- throughout the history of the human race, few things have been more profitable than selling both the poison and the cure.
+> "Know your body, know your mind, know your substance, know your source."
 
-### Programming
+## Politics
+> "It is difficult to get a man to understand something, when his salary depends on his not understanding it" - Upton Sinclair
+
+> "If you don't read the paper you are uninformed, if you do you are misinformed" - Mark Twain
+
+> "Democracy is the worst form of government ... except for all those other forms that have been tried from time to time."
+
+## History
+> "What is done cannot be undone, but one can prevent it happening again." - Anne Frank
+
+> "The philosophy of one century is the common sense of the next"
+
+> "There are decades when nothing happens. There are weeks where decades happen." - Vladimir Lenin
+
+> "Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires." - John Steinbeck
+
+> "Throughout the history of the human race, few things have been more profitable than selling both the poison and the cure."
+
+## Programming
 > 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise' - Edsger Dijkstra
 
-- …you have to say to yourself – “I don’t know what I’m doing. We, as a field, don’t know what we’re doing. We don’t know what programming is, we don’t know what computing is, we don’t even know what a computer is.” And once you truly understand that, once you truly believe that – then you’re free, and you can think anything.
-	- Bret Victor
+> "…You have to say to yourself – “I don’t know what I’m doing. We, as a field, don’t know what we’re doing. We don’t know what programming is, we don’t know what computing is, we don’t even know what a computer is.” And once you truly understand that, once you truly believe that – then you’re free, and you can think anything." - Bret Victor
 
-### Privacy
-- Today's surveillance is extremely stealthy. If a person was following you all day, writing down what you are doing, of course you would care. But the problem today is, most people don't see the person following them.
-- There is no cloud, just other people's computers
+## Privacy
+> "Today's surveillance is extremely stealthy. If a person was following you all day, writing down what you are doing, of course you would care. But the problem today is, most people don't see the person following them."
 
-### War
-- If we don’t end war, war will end us.
-- The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.
-	- Carl Sagan
+> "There is no cloud, just other people's computers"
+
+## War
+> "If we don’t end war, war will end us."
+
+> "The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five." - Carl Sagan
 
 ## Related
 - [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
 - [Goodreads popular quotes](https://www.goodreads.com/quotes)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz) has waived all copyright and related or neighboring rights to this work.
