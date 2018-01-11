@@ -1,19 +1,13 @@
-# Interesting Quotes [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Quotes [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+> Curated list of all the Interesting quotes
 
-This is a curated list of all the interesting quotes.
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-Pull requests are welcome. Thank you. 💜
+## Life
+> "We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played." - Alan Watts
 
-## Related websites / repositories 
-- [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
-- [Goodreads popular quotes](https://www.goodreads.com/quotes)
+> "For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life." - Alfred D. Souza
 
-## Quotes 
-### Life 
-- We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
-	- Alan Watts
-- For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life.
-	- Alfred D. Souza
 - People have a lot invested in this ride.
 	- Bill Hicks
 - When you change yourself you change the world.
@@ -51,12 +45,12 @@ Pull requests are welcome. Thank you. 💜
 - No plan survives contact with the enemy
 - You only dread these dreary tasks when you're dreading them
 
-### Consciousness 
+### Consciousness
 - God is consciousness without the sense of self
 - The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
 - When I let go of what I am, I become what I might be.
 
-### Psychedelics 
+### Psychedelics
 - When you get the message, hang up the phone.
 	- Alan Watts
 - Let us declare nature to be legitimate. All plants should be declared legal, and all animals for that matter. The notion of illegal plants and animals is obnoxious and ridiculous.
@@ -65,11 +59,11 @@ Pull requests are welcome. Thank you. 💜
 - Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 - It's like explaining what being wet is like to someone that has never seen water
 
-### Happiness 
+### Happiness
 - The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.
 	- Mark Manson
-	
-### Intelligence 
+
+### Intelligence
 - Knowledge means knowing where it's written down.
 - Never memorise something that you can look up.
 	- Albert Einstein
@@ -93,24 +87,24 @@ Pull requests are welcome. Thank you. 💜
 	- M. E. Porter
 - Pass it on, .... That’s the game I want you to learn. Pass it on.
 
-### Mathematics 
+### Mathematics
 - Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.
 	- Angus K. Rodgers
 - Fractals are shapes with a non-integer dimension
-- She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe. 
+- She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe.
 	- Ted Chiang
 - In mathematics you don't understand things. You just get used to them.
 	- John von Neumann
 - Geometry without algebra is dumb! Algebra without geometry is blind!
 	- Hestenes
 
-### Physics 
+### Physics
 - The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
 - The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
 	- Heisenberg
 - It's all either order or chaos. You momentarily ordered what was already there in a more structured way. Then when you deleted it, that specific order disappeared. Like a plant assembling itself out of minerals and water and atmospheric compounds, and the dying and decomposing back into them again. The underlying elements are still there, but the structure is gone.
 
-### Success 
+### Success
 - Do the simple thing first.
 - Work like hell. I mean you just have to put in 80 to 100 hour weeks every week. This improves the odds of success. If other people are putting in 40 hour work weeks and you’re putting in 100 hour work weeks, then even if you’re doing the same thing you know that… you will achieve in 4 months what it takes them a year to achieve.
 	- Elon Musk
@@ -121,7 +115,7 @@ Pull requests are welcome. Thank you. 💜
 	- John Carmack
 - Are you moving one step in 20 directions or 20 steps in one direction?
 - Show, don't tell
-- You don't remember the work, you remember the exhilaration.	
+- You don't remember the work, you remember the exhilaration.
 	- Robert Herjavec
 - An investment in knowledge always pays the best interest.
 	- Benjamin Franklin
@@ -143,7 +137,9 @@ Pull requests are welcome. Thank you. 💜
 - Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
 	- Jim Rohn
 
-### Minimalism 
+> “Nobody is the boss,” says Huang, explaining his egalitarian approach to problem-solving. “The project is the boss.”
+
+### Minimalism
 - The less I needed, the better I felt
 	- Charles Bukowski
 - Simplicity Is Complexity Resolved
@@ -153,29 +149,29 @@ Pull requests are welcome. Thank you. 💜
 - Happiness is the absence of striving for happiness
 	- Zhuang Zhou
 
-### Finance 
+### Finance
 - A penny saved is a penny earned.
 	- Benjamin Franklin
 - One man's debt is another man's financial asset
 - Rich people buy things that make them more money; poor people buy big screen TV's and cars
-	- Robert Kiyosaki 
-	
-### Capitalism 
+	- Robert Kiyosaki
+
+### Capitalism
 - I used to work at McDonald’s making minimum wage. You know what that means when someone pays you minimum wage? You know what your boss was trying to say? It’s like, “Hey, if I could pay you less, I would, but it’s against the law“
 	- Chris Rock
 
-### Friends 
+### Friends
 - To know who your true friends are, look out for the ones who say good things behind your back and bad things to your face.
 
-### Language 
+### Language
 - I didn’t learn to talk from a linguist, I learned to talk from hearing other people talk
-- A language isn't something you learn so much as something you join. 
+- A language isn't something you learn so much as something you join.
 
-### Writing 
+### Writing
 - Never use a long word when a short one will do.
 - Write like you speak
 
-### Creativity 
+### Creativity
 - Everything you can imagine is real.
 	- Pablo Picasso
 - It is the simplest version of the idea that sticks.
@@ -184,35 +180,35 @@ Pull requests are welcome. Thank you. 💜
 	- Albert Einstein
 - If you can’t solve a problem, it’s because you’re playing by the rules.
 
-### Inspiration 
+### Inspiration
 - The amateur waits for inspiration. The professional knows that it will come after he starts.
 
-### Design 
+### Design
 - Design is not just what it looks like and feels like. Design is how it works.
 	- Steve Jobs
 - You cannot understand good design if you do not understand people; design is made for people
 - You cannot understand good design if you do not understand people; design is made for people
 	- Charles Eames
 
-### Funny 
+### Funny
 - If computer science fundamentals are so important why do I only think about them during interviews?
 
-### Nutrition 
+### Nutrition
 - Eat food. Not too much. Mostly plants.
 
-### Drugs 
+### Drugs
 - When you drink alcohol you are just borrowing happiness from tomorrow.
 - The dose makes the poison.
 - Know your body, know your mind, know your substance, know your source.
 
-### Politics 
+### Politics
 - It is difficult to get a man to understand something, when his salary depends on his not understanding it
 	- Upton Sinclair
 - If you don't read the paper you are uninformed, if you do you are misinformed
 	- Mark Twain
 - Democracy is the worst form of government ... except for all those other forms that have been tried from time to time.
 
-### History 
+### History
 - What is done cannot be undone, but one can prevent it happening again.
 	- Anne Frank
 - The philosophy of one century is the common sense of the next
@@ -222,18 +218,21 @@ Pull requests are welcome. Thank you. 💜
 	- John Steinbeck
 - throughout the history of the human race, few things have been more profitable than selling both the poison and the cure.
 
-### Programming 
+### Programming
+> 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise' - Edsger Dijkstra
+
 - …you have to say to yourself – “I don’t know what I’m doing. We, as a field, don’t know what we’re doing. We don’t know what programming is, we don’t know what computing is, we don’t even know what a computer is.” And once you truly understand that, once you truly believe that – then you’re free, and you can think anything.
 	- Bret Victor
 
-### Privacy 
+### Privacy
 - Today's surveillance is extremely stealthy. If a person was following you all day, writing down what you are doing, of course you would care. But the problem today is, most people don't see the person following them.
 - There is no cloud, just other people's computers
 
-### War 
+### War
 - If we don’t end war, war will end us.
 - The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.
 	- Carl Sagan
 
-## Contribute 
-If you found a quote that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [Goodreads popular quotes](https://www.goodreads.com/quotes)
