@@ -175,6 +175,7 @@
 > “Nobody is the boss. The project is the boss.”
 
 ## Minimalism
+
 > "The less I needed, the better I felt" - Charles Bukowski
 
 > "Simplicity Is Complexity Resolved" - Constantin Brancusi
@@ -183,7 +184,10 @@
 
 > "Happiness is the absence of striving for happiness" - Zhuang Zhou
 
+> "In character, in manner, in style, in all things, the supreme excellence is simplicity." - Henry Wadsworth Longfellow
+
 ## Finance
+
 > "A penny saved is a penny earned." - Benjamin Franklin
 
 > "One man's debt is another man's financial asset"
