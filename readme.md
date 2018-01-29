@@ -178,8 +178,6 @@
 
 > "The less I needed, the better I felt" - Charles Bukowski
 
-> "Simplicity Is Complexity Resolved" - Constantin Brancusi
-
 > "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - Lao Tzu
 
 > "Happiness is the absence of striving for happiness" - Zhuang Zhou
