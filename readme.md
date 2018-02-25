@@ -274,6 +274,7 @@
 ## Related
 - [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
 - [Goodreads popular quotes](https://www.goodreads.com/quotes)
+- [Interesting quotes](https://ebzzry.io/en/quotes/)
 
 ## Contributing
 See [contribution guidelines](contributing.md/#contribution-guidelines).
