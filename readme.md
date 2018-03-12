@@ -259,6 +259,8 @@
 ## Programming
 > 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise' - Edsger Dijkstra
 
+> Hope is not a strategy.
+
 > "…You have to say to yourself – “I don’t know what I’m doing. We, as a field, don’t know what we’re doing. We don’t know what programming is, we don’t know what computing is, we don’t even know what a computer is.” And once you truly understand that, once you truly believe that – then you’re free, and you can think anything." - Bret Victor
 
 ## Privacy
