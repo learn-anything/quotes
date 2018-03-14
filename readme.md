@@ -274,7 +274,7 @@
 > The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five. - Carl Sagan
 
 ## Related
-- [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes)
+- [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 - [Goodreads popular quotes](https://www.goodreads.com/quotes)
 - [Interesting quotes](https://ebzzry.io/en/quotes/)
 
