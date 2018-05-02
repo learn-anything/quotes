@@ -486,6 +486,8 @@
 
 > A feature that isn't documented is a useless feature.
 
+> A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren't flexible. Neither is a violin, or a typewriter, until you learn how to use it. - Marvin Minsky
+
 > If it doesn't work right, in what sense does it work at all?
 
 > [Just because you turing-can doesn't mean you turing-should](https://www.youtube.com/watch?v=yMnOEgbm2fE)
