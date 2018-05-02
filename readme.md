@@ -10,15 +10,79 @@
 
 > When you change yourself you change the world.
 
+> Once you realise what a joke everything is, being the Comedian is the only thing that makes sense - Watchmen by Alan Moore
+
+> Mistakes are the portals of discovery. - James Joyce.
+
+> [In a year from now, you'll wish you had started today.](https://www.julian.com/learn/muscle/intro)
+
 > I don't believe in asceticism or sobriety, moderation is the middle path.
+
+> Don't let anyone tell you your ideas are stupid or the thing you feel most passionate about 'won't work - Dennis Crowley
+
+> It’s fine to celebrate success but it is more important to heed the lessons of failure. Success is a lousy teacher. It seduces smart people into thinking they can't lose. - Bill Gates
+
+> Times change, and we change with them.
+
+> One tomorrow at a time.
+
+> I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it. - Mark Twain
+
+> Absorb what is useful, Discard what is not, Add what is uniquely your own. - Bruce Lee
+
+> When I let go of what I am, I become what I might be. - Lao Tzu
+
+> Empower people. Embrace change. Eliminate waste.
+
+> An unexamined life is not worth living.
+
+> A man who knows the price of everything and the value of nothing. - Oscar Wilde
+
+> Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - Steve Jobs
+
+> You can’t be free if you judge people
+
+> If you don’t know where you’re going, any road will get you there. - Cheshire Cat in Alice in Wonderland
 
 > When you change the way you look at things, the things you look at change. - Jiddu Krishnamurti
 
 > Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.
 
+> I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us. - The Fellowship of the Ring
+
 > Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
 
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+
+> Anyone, no matter how smart or educated, can be tricked and it's impossible to know when the person being tricked is you.
+
+> My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humour, and some style.
+
+> I don't think - said Alice; Then you shouldn't talk said the Hatter. - Lewis Carroll, Alice in Wonderland
+
+> For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life. - Alfred D. Souza
+
+> I can remember thinking, Oh, someday, like in my mid-thirties maybe, everything's going to just somehow gel and settle, just end. It was like there was this plateau, and it was waiting for me, and I was climbing up it, and when I got to the top, all growth and change would stop. Even exhilaration. But that hasn't happened like that, thank goodness. I think that what we don't take into account when we're young is our endless curiosity. That's what's so great about being human. - From movie “Waking Life
+
+> [Two famous authors, Kurt Vonnegut and Joseph Heller are talking at a party hosted by a billionaire hedge fund manager. Kurt says to Joseph, “You know, this billionaire makes more money in one day than you made in your whole lifetime from your novel Catch-22“. Joe responds, “Yes, but I have something he will never have… enough.](http://www.mrmoneymustache.com/2011/09/04/book-review-enough-by-john-c-bogle/)
+
+> All you touch, and all you see is all your life will ever be.
+
+> The grass isn't greener on the other side, it's greener where you water it.
+
+> Don't spend life daydreaming about 'what could be' in a different place or circumstance. Instead, invest your energy in what is right in front of you and see how it can be cultivated into something beautiful.
+
+> Don’t worry about controlling your emotions. Control your actions
+
+> Be the person you needed in life.
+
+> [Perhaps drugs aren't the experience, but life itself is the experience](https://www.reddit.com/r/Psychonaut/comments/5zimh9/first_dmt_experience_i_wasnt_ready/)
+
+> Energy is the currency of the universe. When you ‘pay’ attention to something, you buy that experience. Be selective with your focus.
+
+> Will either find a way, or make one Your soul takes on the colour of your thoughts
+
+> A mistake only stays a mistake if you don't learn from it.
 
 > The world has enough for everyone's need, but not enough for everyone's greed. - Gandhi
 
@@ -27,6 +91,20 @@
 > You often cannot control your thoughts, but you can control your actions.
 
 > He who fears death is a slave of life.
+
+> Awaken; return to yourself. Now, no longer asleep, knowing they were only dreams, clear-headed again, treat everything around as a dream
+
+> It's normal to feel pain in your hands and feet, if your using your feet as feet and your hands as hands. And for a human being to feel stress is normal - if he's living a normal human life. And if it's normal, how can it be bad?
+
+> You can hold your breath until you turn blue, but they'll still go on doing it.
+
+> Leave other people's mistakes where they lie
+
+> Don't mistake the finger for the moon
+
+> I mean, they say you die twice. One time when you stop breathing and a second time, a bit later on, when somebody says your name for the last time.  - Banksy
+
+> The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground.  - Trungpa Rinpoche
 
 > The more afraid you are the more power your fear has.
 
@@ -176,6 +254,16 @@
 
 > “Nobody is the boss. The project is the boss.”
 
+> Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
+
+> Frameworks descend and burn up in the atmosphere like meteors. Technology changes fast enough that today’s problems are never tomorrow’s problems. Historically, our greatest technologies have been created by those who kept digging until they hit bedrock; who understood foundational ideas and technologies well enough to improve upon them.
+
+> The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest
+
+> Every day we change the world. But to change the world in a way that means anything - that takes more time than most people have. It never happens all at once. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it
+
+> You want to be the first and last mover. Be the company that defines that area : Google / Amazon. Think of the end game, but do start.
+
 ## Minimalism
 
 > The less I needed, the better I felt - Charles Bukowski
@@ -274,6 +362,17 @@
 > If we don’t end war, war will end us.
 
 > The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five. - Carl Sagan
+
+## Socialism
+> Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires. - John Steinbeck
+
+## Purpose
+> Growth for the sake of growth is the ideology of the cancer cell.
+
+## Freedom
+> Freedom consists of the distribution of power and despotism in its concentration.
+
+> What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egotism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny “failed to take into account man’s almost infinite appetite for distractions.” In 1984, Orwell added, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we fear will ruin us. Huxley feared that our desire will ruin us.
 
 ## Other
 > They love us too much, and understand us too little.
