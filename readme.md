@@ -280,6 +280,7 @@
 - [Awesome IT quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 - [Goodreads popular quotes](https://www.goodreads.com/quotes)
 - [Interesting quotes](https://ebzzry.io/en/quotes/)
+- [Better Developer Quotes](https://github.com/ggomaeng/better-developer-quotes#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
