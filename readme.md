@@ -10,6 +10,8 @@
 
 > When you change yourself you change the world.
 
+> I don't believe in asceticism or sobriety, moderation is the middle path.
+
 > When you change the way you look at things, the things you look at change. - Jiddu Krishnamurti
 
 > Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.
