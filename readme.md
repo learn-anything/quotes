@@ -417,6 +417,8 @@
 
 > Being a millennial is like joining a game of monopoly after all the properties have been bought up.
 
+> Here’s to the crazy ones, the misfits, the rebels. The package makers, the man page writers. The rounded windows in Qt mixed with the less rounded windows of GTK. The ones who literally see things differently because of missing proprietary fonts.
+
 > The exercises are phenomenal. Though they do range from a stop gap to see if you understand to PhD thesis so it does vary.
 
 > [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him How do you do it? and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
