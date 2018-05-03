@@ -189,6 +189,8 @@
 
 > Let us declare nature to be legitimate. All plants should be declared legal, and all animals for that matter. The notion of illegal plants and animals is obnoxious and ridiculous.
 
+> Although the road is never ending take a step and keep walking, do not look fearfully into the distance... On this path let the heart be your guide for the body is hesitant and full of fear.
+
 > Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
 
 > You are an extra in everyone else's movie
