@@ -30,6 +30,8 @@
 
 > Absorb what is useful, Discard what is not, Add what is uniquely your own. - Bruce Lee
 
+> Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing it? The same thing happens with software. Working to implement one idea gives you more ideas. So shelving an idea costs you not only that delay in implementing it, but also all the ideas that implementing it would have led to. In fact, shelving an idea probably even inhibits new ideas: as you start to think of some new feature, you catch sight of the shelf and think “but I already have a lot of new things I want to do for the next release. - Paul Graham
+
 > When I let go of what I am, I become what I might be. - Lao Tzu
 
 > Empower people. Embrace change. Eliminate waste.
