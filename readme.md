@@ -529,6 +529,8 @@
 ## Business
 > Stop thinking about making a million dollars and start thinking about serving a million people. - Dharmesh Shah
 
+> … You know throughout the years in business I found something which was I’d always ask why you do things and the answer you invariably get is oh that’s just the way it’s done. Nobody knows why they do what they do. Nobody thinks about things very deeply in business. That’s what I found… - Steve Jobs
+
 > If you know how big the market is, you're too late.
 
 > The best entrepreneurs are not risk-takers. They spend every day reducing risk.
