@@ -44,6 +44,8 @@
 
 > You can’t be free if you judge people
 
+> It’s interesting to think about how profoundly we’re a product of the culture we’re raised in, even to the level of our modes of cognition. We’d all like to think there’s something essential about us as individuals that would persist no matter where or when we were born, but so many of the pursuits that define us are entirely culture-specific. Music seems to be found in all cultures, so maybe a musician would be drawn to music no matter what form it took in the culture she was born into, but what would I be drawn to in a culture without the written word? - Ted Chiang
+
 > If you don’t know where you’re going, any road will get you there. - Cheshire Cat in Alice in Wonderland
 
 > When you change the way you look at things, the things you look at change. - Jiddu Krishnamurti
