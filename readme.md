@@ -303,6 +303,8 @@
 
 > What is special about atomic theory is the supposition that there is an endpoint to recursive reduction. That at some point you cannot find anything simpler.
 
+> It's not complicated, it's just a lot of it. - Richard Feynman
+
 ## Success
 > Do the simple thing first.
 
