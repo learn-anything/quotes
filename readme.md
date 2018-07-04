@@ -291,8 +291,9 @@
 
 > Young man, in mathematics you don't understand things. You just get used to them. - John von Neumann
 
-- Most people who are Bad At Math simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.
-	- I know this because it happened to me. So what I suggest is, no matter what course you take, start at the very beginning. Even if you think you know it, do all the exercises. You'll build your skills piece by piece much like programming and before long you'll wonder why you found it hard in the beginning. It becomes like programming where even with huge problems you just break them down into smaller and smaller pieces until you can cope.
+> To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of. - R. A. Fisher
+
+> Most people who are Bad At Math simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.  I know this because it happened to me. So what I suggest is, no matter what course you take, start at the very beginning. Even if you think you know it, do all the exercises. You'll build your skills piece by piece much like programming and before long you'll wonder why you found it hard in the beginning. It becomes like programming where even with huge problems you just break them down into smaller and smaller pieces until you can cope.
 
 ## Physics
 > The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
