@@ -405,6 +405,8 @@
 
 > If you can’t solve a problem, it’s because you’re playing by the rules.
 
+> Create. Not for the money. Not for the fame. Not for the recognition. But for the pure joy of creating something and sharing it. - Ernest Barbaric
+
 ## Inspiration
 > The amateur waits for inspiration. The professional knows that it will come after he starts.
 
@@ -711,7 +713,17 @@
 > If you can’t solve a problem, it’s because you’re playing by the rules.
 
 ## Art
-> Art washes from the soul, the dust from every day life
+> Art washes from the soul, the dust from every day life - Pablo Picasso
+
+> I put my heart and soul into my work, and I have lost my mind in the process. - Vincent van Gogh
+
+> Everyone wants to understand art. Why not try to understand the song of a bird? Why does one love the night, flowers, everything around one, without trying to understand them? But in the case of a painting people have to understand. If only they would realize above all that an artist works of necessity, that he himself is only a trifling bit of the world, and that no more importance should be attached to him than to plenty of other things which please us in the world, though we can't explain them. People who try to explain pictures are usually barking up the wrong tree. - Pablo Picasso
+
+> The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence. - Woody Allen
+
+> If you could say it in words, there would be no reason to paint. - Edward Hopper
+
+> The arts put man at the center of the universe, whether he belongs there or not - Kurt Vonnegut
 
 ## Innovation
 > If others would think as hard as I did, then they would get similar results. - Newton
