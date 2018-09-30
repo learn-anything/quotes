@@ -108,9 +108,7 @@
 
 > A reader lives a thousand lives before they die. The person who never reads lives only one. - George R. Martin
 
-- She smiled at him.
-	- And then it arose and struck Vimes that, in her own special category, she was quite beautiful; that was the category of all the women, in his entire life, who had ever thought he was worth smiling at. She couldn’t do worse, but then, he couldn’t do better. So maybe it balanced out. She wasn’t getting any younger but then, who was? And she had style and money and common sense and self-assurance and all the things that he didn’t, and she had opened her heart, and if you let her she could engulf you; the woman was a city.
-	- And eventually, under siege, you did what Ankh-Morpork had always done–unbar the gates, let the conquerors in, and make them your own.
+- She smiled at him. - And then it arose and struck Vimes that, in her own special category, she was quite beautiful; that was the category of all the women, in his entire life, who had ever thought he was worth smiling at. She couldn’t do worse, but then, he couldn’t do better. So maybe it balanced out. She wasn’t getting any younger but then, who was? And she had style and money and common sense and self-assurance and all the things that he didn’t, and she had opened her heart, and if you let her she could engulf you; the woman was a city. - And eventually, under siege, you did what Ankh-Morpork had always done–unbar the gates, let the conquerors in, and make them your own.
 
 ## Business
 
@@ -172,9 +170,7 @@
 
 > [Could it be anything but perfect though?](https://www.reddit.com/r/DMT/comments/5pul1f/i_love_you_everything_is_perfect/)
 
-- A man was walking along a river bank when he saw another man on the opposite side.
-	- Hello! he called out, how do you get to the other side of the river?
-	- The man called out in response, you are on the other side of the river!
+- A man was walking along a river bank when he saw another man on the opposite side. - Hello! he called out, how do you get to the other side of the river? - The man called out in response, you are on the other side of the river!
 
 > [Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.](https://www.reddit.com/r/Meditation/comments/5b9n3d/philosopher_alan_watts_short_lecture_on_letting_go/)
 
@@ -182,11 +178,7 @@
 
 > We often hear, but we rarely listen.
 
-- I have seen this as well. It's called ego death.
-	- The past and future do not exist. Only the moment. And in the moment everything exists. Life... existence... reality itself raging forward. You are only random jumble of some matter from a random part of the universe. You are no more important than any other piece of reality. But in the same sense, you are the most important thing in the universe. You are the universe. The universe is within you and you within it.
-	- During ego death you realise this. This fact of existence. You are only another piece of matter. You are exactly the same as a table or chair or the dirt. You are simply matter. Conscious matter. A bunch of atoms with self awareness. Ego death is... in my opinion, the most tangible example of nirvana. It is the greatest form of understanding.
-	- We are all just lucky bundles of atoms experiencing existence together. It makes you chill out and have empathy for other life forms.
-	- We just exist. We are just alive. And we overcomplicate it all. But all life forms have the same basic feelings about stuff.
+- I have seen this as well. It's called ego death. - The past and future do not exist. Only the moment. And in the moment everything exists. Life... existence... reality itself raging forward. You are only random jumble of some matter from a random part of the universe. You are no more important than any other piece of reality. But in the same sense, you are the most important thing in the universe. You are the universe. The universe is within you and you within it. - During ego death you realise this. This fact of existence. You are only another piece of matter. You are exactly the same as a table or chair or the dirt. You are simply matter. Conscious matter. A bunch of atoms with self awareness. Ego death is... in my opinion, the most tangible example of nirvana. It is the greatest form of understanding. - We are all just lucky bundles of atoms experiencing existence together. It makes you chill out and have empathy for other life forms. - We just exist. We are just alive. And we overcomplicate it all. But all life forms have the same basic feelings about stuff.
 
 > The universe is endless, limitless and infinite. Any effort to define it's boundaries is an attempt to overcome ignorance. We are physical, mental and spiritual beings ... there is no beginning and there is no end. There is only memory. Our repeated loss of memory experiences create the illusion of beginnings and ends. Immortality is the ability to retain full memory through all consciousness transformations. Loss of memory is man's greatest curse and, in very real terms, death.
 
@@ -204,10 +196,7 @@
 
 > Heaven, it's anywhere but where you are.
 
-- So then, let’s suppose that you were able every night to dream any dream you wanted to dream, and that you could for example have the power within one night to dream 75 years of time, or any length of time you wanted to have.
-	- And you would, naturally, as you began on this adventure of dreams, you would fulfill all your wishes. You would have every kind of pleasure during your sleep. And after several nights of 75 years of total pleasure each you would say “Well that was pretty great”. But now let’s have a surprise, let’s have a dream which isn’t under control, where something is gonna happen to me that I don’t know what it's gonna be.
-	- And you would dig that and would come out of that and you would say “Wow that was a close shave, wasn’t it?”. Then you would get more and more adventurous and you would make further- and further-out gambles what you would dream. And finally, you would dream where you are now. You would dream the dream of living the life that you are actually living today.
-	- That would be within the infinite multiplicity of choices you would have. Of playing that you weren't god, because the whole nature of the godhead, according to this idea, is to play that he is not. So in this idea then, everybody is fundamentally the ultimate reality, not god in a politically kingly sense, but god in the sense of being the self, the deep-down basic whatever there is. And you are all that, only you are pretending you are not.
+- So then, let’s suppose that you were able every night to dream any dream you wanted to dream, and that you could for example have the power within one night to dream 75 years of time, or any length of time you wanted to have. - And you would, naturally, as you began on this adventure of dreams, you would fulfill all your wishes. You would have every kind of pleasure during your sleep. And after several nights of 75 years of total pleasure each you would say “Well that was pretty great”. But now let’s have a surprise, let’s have a dream which isn’t under control, where something is gonna happen to me that I don’t know what it's gonna be. - And you would dig that and would come out of that and you would say “Wow that was a close shave, wasn’t it?”. Then you would get more and more adventurous and you would make further- and further-out gambles what you would dream. And finally, you would dream where you are now. You would dream the dream of living the life that you are actually living today. - That would be within the infinite multiplicity of choices you would have. Of playing that you weren't god, because the whole nature of the godhead, according to this idea, is to play that he is not. So in this idea then, everybody is fundamentally the ultimate reality, not god in a politically kingly sense, but god in the sense of being the self, the deep-down basic whatever there is. And you are all that, only you are pretending you are not.
 
 > Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 
@@ -319,10 +308,7 @@
 
 > [I've seen insane comments. And then there are reddit insane comments.](https://www.reddit.com/r/javascript/comments/6113hf/is_mozilla_mdn_the_most_complete_javascript/dfb5j7q/)
 
-- Hey how did your hackathon go?
-	- Not too bad, we got Babel set up.
-	- Yep.
-	- Yep…
+- Hey how did your hackathon go? - Not too bad, we got Babel set up. - Yep. - Yep…
 
 > The S in the IoT stands for Security.
 
@@ -552,9 +538,9 @@
 
 > Don't mistake the finger for the moon
 
-> I mean, they say you die twice. One time when you stop breathing and a second time, a bit later on, when somebody says your name for the last time.  - Banksy
+> I mean, they say you die twice. One time when you stop breathing and a second time, a bit later on, when somebody says your name for the last time. - Banksy
 
-> The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground.  - Trungpa Rinpoche
+> The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground. - Trungpa Rinpoche
 
 > The more afraid you are the more power your fear has.
 
@@ -618,7 +604,7 @@
 
 > To consult the statistician after an experiment is finished is often merely to ask him to conduct a post mortem examination. He can perhaps say what the experiment died of. - R. A. Fisher
 
-> Most people who are Bad At Math simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.  I know this because it happened to me. So what I suggest is, no matter what course you take, start at the very beginning. Even if you think you know it, do all the exercises. You'll build your skills piece by piece much like programming and before long you'll wonder why you found it hard in the beginning. It becomes like programming where even with huge problems you just break them down into smaller and smaller pieces until you can cope.
+> Most people who are Bad At Math simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself. I know this because it happened to me. So what I suggest is, no matter what course you take, start at the very beginning. Even if you think you know it, do all the exercises. You'll build your skills piece by piece much like programming and before long you'll wonder why you found it hard in the beginning. It becomes like programming where even with huge problems you just break them down into smaller and smaller pieces until you can cope.
 
 ## Minimalism
 
@@ -636,9 +622,7 @@
 
 ## Nature
 
-- Man is the most insane species.
-	- He worships an invisible God and destroys a visible Nature.
-	- Unaware that the Nature he is destroying is this God he is worshipping.
+- Man is the most insane species. - He worships an invisible God and destroys a visible Nature. - Unaware that the Nature he is destroying is this God he is worshipping.
 
 ## Nutrition
 
@@ -746,15 +730,7 @@
 
 > It's like explaining what being wet is like to someone that has never seen water
 
-- [Some people say that we’ve been here before.That we don’t live just once, but hundreds of times.](http://www.jamesreads.com/about/)
-	- Some people say that we have soulmates, not just one, but many. And that we meet again and again throughout our lives.
-	- Some people like to keep their minds on other things. And so they spend their whole lives looking for answers to the wrong questions.
-	- But what if the many secrets of life and death were not as unknown as we’ve been taught to believe?
-	- Maybe, if you just shift your mind ever so slightly just an inch to the left you’ll see what I mean.
-	- You’ll know when it happens. It will feel like a hundred sunsets hitting you all at once.
-	- It’s a difficult feeling to explain, maybe you have felt it before. It’s sort of like old friends meeting, or the dawn breaking into the night after a thousand years of darkness.
-	- But if I really told you the secrets of the universe,  you probably wouldn’t believe me.
-	- So I am here to remind you of how it used to be. No longer just the distance of a memory but instead something completely clear  as if it were only yesterday.
+- [Some people say that we’ve been here before.That we don’t live just once, but hundreds of times.](http://www.jamesreads.com/about/) - Some people say that we have soulmates, not just one, but many. And that we meet again and again throughout our lives. - Some people like to keep their minds on other things. And so they spend their whole lives looking for answers to the wrong questions. - But what if the many secrets of life and death were not as unknown as we’ve been taught to believe? - Maybe, if you just shift your mind ever so slightly just an inch to the left you’ll see what I mean. - You’ll know when it happens. It will feel like a hundred sunsets hitting you all at once. - It’s a difficult feeling to explain, maybe you have felt it before. It’s sort of like old friends meeting, or the dawn breaking into the night after a thousand years of darkness. - But if I really told you the secrets of the universe, you probably wouldn’t believe me. - So I am here to remind you of how it used to be. No longer just the distance of a memory but instead something completely clear as if it were only yesterday.
 
 > Without salt, an egg is no fun to eat
 
@@ -799,9 +775,7 @@
 
 > Take something that people do, and remove a step (or make that step very very easy). That's the key to a successful startup. - Ev Williams
 
-- Fail fast.
-	- Do your best to validate the business idea before investing a bunch of time and money.
-	- The faster you fail, the faster you can move onto another idea that might actually be the winner.
+- Fail fast. - Do your best to validate the business idea before investing a bunch of time and money. - The faster you fail, the faster you can move onto another idea that might actually be the winner.
 
 > Stop making the product perfect. Get it to market and get feedback
 
@@ -911,5 +885,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
