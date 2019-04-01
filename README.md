@@ -844,6 +844,8 @@
 
 > You want to be the first and last mover. Be the company that defines that area : Google / Amazon. Think of the end game, but do start.
 
+> Reading is faster than listening. Doing is faster than watching. - Naval Ravikant
+
 ## Thinking
 
 > Just because other people are idiots doesn't mean we should be.
