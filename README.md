@@ -806,6 +806,8 @@
 
 > Show, don't tell
 
+> First, master fundamentals. Then, play infinite games. - James Stuber
+
 > You don't remember the work, you remember the exhilaration. - Robert Herjavec
 
 > An investment in knowledge always pays the best interest. - Benjamin Franklin
