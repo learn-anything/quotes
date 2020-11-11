@@ -626,6 +626,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 > They love us too much, and understand us too little.
 
+> There are years that ask questions and years that answer. - Zora Neale Hurston
+
 ## Physics
 
 > The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
